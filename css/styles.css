@@ -133,6 +133,7 @@ hr{
     background-image: -o-linear-gradient(top,  #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
     text-decoration: none;
+    cursor:pointer;
 }
 
 .bottom-container{
@@ -159,4 +160,18 @@ hr{
 .cv-link:hover{
     text-decoration: underline;
     cursor:pointer;
+}
+
+.crypto-info-row{
+    width: 50%;
+    line-height: 2;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+.crypto-info-row-2{
+    width: 50%;
+    line-height: 2;
+    margin: 3rem auto;
+    text-align: left;
 }
