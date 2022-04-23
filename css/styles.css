@@ -151,3 +151,12 @@ hr{
     margin: 0 1rem;
     text-decoration: none;
 }
+
+.cv-link{
+    color:#30e3cb;
+}
+
+.cv-link:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
